@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+numpy
+xlrd
+streamlit-chat
+requests
